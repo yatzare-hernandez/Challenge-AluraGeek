@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Dart Vader",
+      "price": "45",
+      "image": "https://www.geekphstore.com/cdn/shop/products/6898b80c-ac80-40c1-87ef-887dfc9dc519_1200x1200.jpg?v=1673071619",
+      "id": 1
+    },
+    {
+      "name": "Flash",
+      "price": "30",
+      "image": "https://www.geekphstore.com/cdn/shop/products/0f9da5b9-7236-4939-9cb1-18b6586484b6_1200x1200.jpg?v=1678942427",
+      "id": 2
+    },
+    {
+      "name": "Batman",
+      "price": "50",
+      "image": "https://geekshopestonia.ee/wp-content/uploads/2023/05/Mega-Sized-Funko-POP-Heroes-DC-Comics-%E2%80%93-Batman.jpg",
+      "id": 3
+    },
+    {
+      "name": "Wonder Woman",
+      "price": "80",
+      "image": "https://geekalliance.com/cdn/shop/products/B1dbkIukuKn5umJWYdtd_ceb2b629-ecc9-4ac1-a8a5-88c5014fca19.png?v=1687625747",
+      "id": 4
+    },
+    {
+      "name": "Spider-Man",
+      "price": "15",
+      "image": "https://th.bing.com/th?id=OIF.KLe3qSfuMT%2fDer0Ze3W02A&rs=1&pid=ImgDetMain",
+      "id": 5
+    },
+    {
+      "name": "Wolverine",
+      "price": "20",
+      "image": "https://th.bing.com/th/id/R.57678ca558dbd6b1c3253d536362ce73?rik=%2bSkg%2foeguQcjmw&pid=ImgRaw&r=0",
+      "id": 6
+    }
+  ]
+}

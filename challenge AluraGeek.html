@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+   <title>Alura Geek</title>
+</head>
+<body>
+
+    <header class="header">
+<div class="logo">
+<img src="assets/image.png" alt="AluraGeek">
+</div>
+    </header>
+
+    <main class="main-container">
+        <div class="content-wrapper">
+<section class="products-section">
+    <h1>Productos: </h1>
+    <div class="products-container" data-product></div>
+</section>
+
+<section class="add-product-section">
+    <h1>Agregar <br>Producto: </h1>
+    <form class="form-container" data-form>
+        <input data-name placeholder="nombre..." type="text">
+        <input data-price placeholder="precio..." type="text">
+        <input data-image placeholder="imagen..." type="text">
+    
+            <div class="button-container">
+                <button type="submit" class="button-submit" id="button"> Enviar</button>
+                <button type="reset" class="button-clear" id="button"> Limpiar</button>
+            </div>
+        </form>
+</section>
+</div>
+</main>
+
+    <footer class="footer-container">
+        <div class="logo">
+            <img src="assets/image.png" alt="AluraGeek">
+        </div>
+        <p>Desarrollado por Yatzaré</p>
+        <p>© 2024 AluraGeek. Todos los derechos reservados.</p>
+    </footer>
+    <script src="javascript/services/product-services.js"></script>
+    <script type="module" src="javascript/controllers/main.js"></script>
+</body>
+</html>
+   

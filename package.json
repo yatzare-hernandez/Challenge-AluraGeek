@@ -1,0 +1,16 @@
+{
+  "name": "challenge-alurageek",
+  "version": "1.0.0",
+  "description": "Descripción de tu proyecto",
+  "main": "JavaScript.js",
+  "scripts": {
+    "start": "json-server --watch database/db.json --port 3000"
+  },
+  "keywords": [],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
+
